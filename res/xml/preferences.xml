@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <ListPreference
+            android:key="updates_interval"
+            android:title="Quotes update interval"
+            android:summary=""
+            android:defaultValue="30000"
+            android:entries="@array/updateInterval"
+            android:entryValues="@array/updateIntervalValues"
+        />   
+</PreferenceScreen>

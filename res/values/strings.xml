@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuotesScreensaver</string>
+    <string name="title_activity_settings">QuotesScreensaver Settings</string>
+    <string name="time_delay">Time delay between quotes</string>
+    <string name="rate_app">Rate the app</string>
+
+</resources>
